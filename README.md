@@ -26,7 +26,14 @@ Under certain constraints, non-linearly mixed sources are proven to be uniquely 
  - Existence of auxiliary variable (e.g. iVAE)    https://arxiv.org/abs/1907.04809
 
 
-4. Vanilla VAE for 2d slices of task-based fMRI.
+4. Vanila VAE for 2d slices of task-based fMRI. VAE_for_fMRI folder in current repository
+
+
+5. 3D VAE regression network for MRI. Published in MICCAI 2019
+
+https://github.com/QingyuZhao/VAE-for-Regression
+
+
 
 
 
